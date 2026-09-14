@@ -6,3 +6,4 @@ catboost
 scikit-learn
 xgboost-cpu
 dill
+gunicorn
